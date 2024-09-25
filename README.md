@@ -66,5 +66,3 @@ This project is a Jira-APP project management platform built with Django 3.2 and
 - Delete Comment: DELETE api/comments/{id}/
 
 ### NOTE: To access all the Api you need to register first on register Api then use that JWT token
-
-/Users/rbaghla/project/Raman-Baghla/jira_app/jira_app/asgi.py
